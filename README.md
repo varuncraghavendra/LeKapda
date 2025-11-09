@@ -1,12 +1,12 @@
 # LeKapda
 
-### Open Source Project for automating the process of managing your dirty laundry!
+## Open Source Project for automating the process of managing your dirty laundry!
 
 ![LeKapda Demo](https://github.com/varuncraghavendra/LeKapda/blob/main/demo.gif)
 
 Video Demo Credits : Pratham Jain, Chirag Sharma, Shibkarman Singh
 
-#### Our Vision
+## Our Vision
 
 LeKapda envisions a world where every home runs smarter, cleaner, and freer through open-source laundry automation.
 
