@@ -7,6 +7,8 @@
 
 · Software Development
 
+· Simulations
+
 · Mechanical Design
 
 · Electrical Design
