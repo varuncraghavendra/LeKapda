@@ -4,32 +4,29 @@
 ### End to end automation for managing your dirty laundry!
 
 
-Vision : 
+#### Our Vision
 
-
-
-
-
+To revolutionize everyday living by creating intelligent, open-source robotic systems that automate the entire laundry lifecycle — from sorting to folding — making clean clothes effortless, sustainable, and accessible to all.
 
 #### Teams you can contribute to with the following prerequisites : 
 
-- Mechanical Design
+##### Mechanical Design
 
 -> Fusion360
 
 -> Onshape
 
-- Electrical Design
+##### Electrical Design
 
 -> Raspberry Pi
   
-- Software Development
+##### Software Development
 
 -> Python (Mostly Used)
 
 -> C/C++ 
 
-- Simulations
+##### Simulations
 
 -> NVIDIA Isaac Sim
 
