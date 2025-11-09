@@ -5,10 +5,10 @@
 
 #### Teams you can contribute to : 
 
-Software Development
+· Software Development
 
-Mechanical Design
+· Mechanical Design
 
-Electrical Design
+· Electrical Design
 
 For more details, contact : varuncraghavendra@gmail.com
