@@ -4,7 +4,7 @@
 
 ![LeKapda Demo](https://github.com/varuncraghavendra/LeKapda/blob/main/demo.gif)
 
-Video Demo Credits : Pratham Jain, Chirag Sharma, Shibkarman Singh
+Video Demo Credits : Pratham Jain, Chirag Sharma, Shubkarman Singh
 
 ## Our Vision
 
