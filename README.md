@@ -6,7 +6,7 @@
 
 #### Our Vision
 
-To revolutionize everyday living by creating intelligent, open-source robotic systems that automate the entire laundry lifecycle — from sorting to folding — making clean clothes effortless, sustainable, and accessible to all.
+LeKapda envisions a world where every home runs smarter, cleaner, and freer through open-source laundry automation.
 
 #### Teams you can contribute to with the following prerequisites : 
 
