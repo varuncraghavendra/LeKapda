@@ -10,9 +10,9 @@
 - Software Development
 - Simulations
 
+-> NVIDIA Isaac Sim
 
-. NVIDIA Isaac Sim
-. NVIDIA Newton
+-> NVIDIA Newton
   
 
 
