@@ -1,2 +1,2 @@
 # LeKapda
-End to end automation for managing your clothes !
+End to end automation for managing your dirty laundry!
