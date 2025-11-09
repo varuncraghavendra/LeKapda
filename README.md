@@ -3,7 +3,7 @@
 ### Open Source Project to automate your Laundry
 ### End to end automation for managing your dirty laundry!
 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+<video src="(https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed.mp4)" width="320" height="240" controls></video>
 
 #### Our Vision
 
