@@ -10,7 +10,9 @@ Video Demo Credits : Pratham Jain, Chirag Sharma, Shibkarman Singh
 
 LeKapda envisions a world where every home runs smarter, cleaner, and freer through open-source laundry automation.
 
-#### Teams you can contribute to with the following prerequisites : 
+#### Teams you can contribute to with the following prerequisites (Not all are mandatory) : 
+
+ROS2, OpenCV, PyTorch, LeRobot,
 
 ##### Mechanical Design
 
@@ -33,6 +35,8 @@ LeKapda envisions a world where every home runs smarter, cleaner, and freer thro
 -> NVIDIA Isaac Sim
 
 -> NVIDIA Newton
+
+-> WeBots
   
 
 
