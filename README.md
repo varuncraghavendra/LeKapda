@@ -1,7 +1,6 @@
 # LeKapda
 
-### Open Source Project to automate your Laundry
-### End to end automation for managing your dirty laundry!
+### Open Source Project for automating the process of managing your dirty laundry!
 
 ![LeKapda Demo](https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed%20(1).gif)
 
