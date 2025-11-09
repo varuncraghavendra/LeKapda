@@ -1,2 +1,2 @@
-# Le-kapda
+# LeKapda
 End to end automation for managing your clothes !
