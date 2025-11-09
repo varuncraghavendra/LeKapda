@@ -6,7 +6,7 @@
 <video src="https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed.mp4" width="320" height="240" controls></video>
 
 <p align="center" width="100%">
-<video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d](https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed.mp4" width="80%" controls></video>
+<video src="https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed.mp4" width="80%" controls></video>
 </p>
 
 #### Our Vision
