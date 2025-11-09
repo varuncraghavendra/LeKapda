@@ -3,7 +3,7 @@
 ### Open Source Project to automate your Laundry
 ### End to end automation for managing your dirty laundry!
 
-![Demo](trim_compressed (1).gif)
+![LeKapda Demo](trim_compressed (1).gif)
 
 #### Our Vision
 
