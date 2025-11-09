@@ -2,7 +2,7 @@
 
 ### Open Source Project for automating the process of managing your dirty laundry!
 
-![LeKapda Demo](https://github.com/varuncraghavendra/LeKapda/blob/main/trim_compressed%20(1).gif)
+![LeKapda Demo](https://github.com/varuncraghavendra/LeKapda/blob/main/demo.gif)
 
 #### Our Vision
 
