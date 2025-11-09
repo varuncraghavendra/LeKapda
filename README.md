@@ -9,6 +9,10 @@
 
 · Simulations
 
+- NVIDIA Isaac Sim
+  
+- NVIDIA Newton
+
 · Mechanical Design
 
 · Electrical Design
