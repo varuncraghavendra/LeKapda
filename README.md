@@ -5,16 +5,17 @@
 
 #### Teams you can contribute to : 
 
-· Software Development
+- Mechanical Design
+- Electrical Design
+- Software Development
+- Simulations
 
-· Simulations
 
-- NVIDIA Isaac Sim
+. NVIDIA Isaac Sim
+. NVIDIA Newton
   
-- NVIDIA Newton
 
-· Mechanical Design
 
-· Electrical Design
+
 
 For more details, contact : varuncraghavendra@gmail.com
