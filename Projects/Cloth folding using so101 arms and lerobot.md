@@ -109,17 +109,13 @@ Even with just 50 demonstrations, the ACT model learned to fold clothes reliably
 
 ### See It in Action!
 
-(https://github.com/user-attachments/assets/0824a92a-9c56-4902-9450-c2472a67a28c)
+https://github.com/user-attachments/assets/0824a92a-9c56-4902-9450-c2472a67a28c
 
 What the robot can now do:
 - Pick up and fold clothes completely on its own
 - Use both arms together smoothly
 - Handle clothes that start in slightly different positions
 - Execute clean, consistent folding motions
-
----
-
-
 
 ---
 
