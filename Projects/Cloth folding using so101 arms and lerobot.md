@@ -54,6 +54,7 @@ LeRobot made everything easier - from recording our demonstrations to getting th
 
 ### Watch Us in Action!
 
+https://github.com/user-attachments/assets/e5465f65-0410-4f31-951d-5c0faf971e1a
 
 ### The Teaching Process
 Here's how we collected the data to train our robot:
